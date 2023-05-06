@@ -64,7 +64,7 @@ time_period = '20y'
 dataframe_for_gold_close_prediction = get_csv_dataframe('C:\All\Dataset\gold_inflation_crude_dji_wmt_int_cs.csv');
 
 #trim the dataframe to remove dates after 2020
-#dataframe_for_gold_close_prediction = dataframe_for_gold_close_prediction.iloc[: -825, :]
+dataframe_for_gold_close_prediction = dataframe_for_gold_close_prediction.iloc[: -825, :]
 
 dataframe_for_gold_close_prediction = dataframe_for_gold_close_prediction.reset_index()
 dataframe_columns_used = ['Open', 'High', 'Low', 'DJI Adj Close', 'Interest Rate', 'Consumer Sentiment',
