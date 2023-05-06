@@ -23,4 +23,4 @@ The dataset, the correlation heatmap, and the prediction results obtained by run
 The project is licensed under the terms of GNU LGPL v2.0.
 
 ## Heatmap
-![Heatmap](https://github.com/vishnu-r-1995/gold-price-predictor/tree/main/images/heatmap_labels_and_features.jpeg?raw=true)
+![Heatmap](images/heatmap_labels_and_features.jpeg)
