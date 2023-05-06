@@ -18,3 +18,9 @@ The code can be run using PyDev plugin for Eclipse. The code contains certain wr
 
 ## Attachments
 The dataset, the correlation heatmap, and the prediction results obtained by running the code against data points between 2007-2020 have been attached.
+
+## License
+The project is licensed under the terms of GNU LGPL v2.0.
+
+##Heatmap
+![alt text](https://github.com/vishnu-r-1995/gold-price-predictor/images/heatmap_labels_and_features.jpeg?raw=true)
