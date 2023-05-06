@@ -15,3 +15,6 @@ The dataset has datapoints acquired from July 2007 to March 2023. LSTM and Rando
 
 ## How to get started
 The code can be run using PyDev plugin for Eclipse. The code contains certain write and read functions to local files, comment it out if you do not want to create those files.
+
+## Attachments
+The dataset, the correlation heatmap, and the prediction results obtained by running the code against data points between 2007-2020 have been attached.
