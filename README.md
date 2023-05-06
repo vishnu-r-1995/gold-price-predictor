@@ -1,6 +1,6 @@
 # Gold Price Prediction Using LSTM and Random Forest Regression
 
-## A python based project that predicts the closing price of gold in commodity exchange using fundamental data and macro-economic data. LSTM and Random Forest models are used here.
+## A python based project that predicts the closing price of gold in the commodity exchange using fundamental data and macro-economic data. LSTM and Random Forest models are used here.
 
 ## Introduction
 The aim of this project is to predict the close price of gold using fundamental data and macro-economic data. The features used for prediction are:
@@ -22,5 +22,5 @@ The dataset, the correlation heatmap, and the prediction results obtained by run
 ## License
 The project is licensed under the terms of GNU LGPL v2.0.
 
-##Heatmap
+## Heatmap
 ![alt text](https://github.com/vishnu-r-1995/gold-price-predictor/images/heatmap_labels_and_features.jpeg?raw=true)
